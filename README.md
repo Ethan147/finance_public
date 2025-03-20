@@ -3,6 +3,8 @@
 A basic toolset for an encrypted, multi-pronged and in-depth personal financial analysis.
 Imports financial data from bank & credit card statements, deduplicates, and outputs to a variety of easy to read graphs.
 
+Works against LibreOffice Calc spreadsheet.
+
 Every toolset in this series of scripts operates under following assumptions:
 
 - File will be opened and updated
